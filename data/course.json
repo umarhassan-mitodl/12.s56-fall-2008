@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Surveying"
+    ],
+    [
+      "Social Science",
+      "Geography"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ]
+  ],
+  "legacy_uid": "9d1d5562-9482-138a-fd91-63de40aaf346",
+  "instructors": {
+    "content": [
+      "6ef38acf-e916-092e-c56b-2cebac96b084"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a26fa20e-d4d9-314d-9575-f8682783904f",
+    "website": "12-s56-gps-where-are-you-fall-2008"
+  },
+  "course_title": "GPS: Where Are You?",
+  "hide_download": false,
+  "course_description": "This is a {{% resource_link \"86aaf7e1-6a06-43e0-827d-036b1fb248d3\" \"freshman advising seminar\" %}}. The professor of a FAS is the first year advisor to the (no more than 8) students in the seminar.\n\nThe use of Global Positioning System (GPS) in a wide variety of applications has exploded in the last few years. In this seminar we explore how positions on the Earth were determined before GPS; how GPS itself works and the range of applications in which GPS is now a critical element. This seminar is followed by a {{% resource_link \"342816e8-8155-437d-be53-af13fc6cffc7\" \"UROP\" %}} research project in the spring semester where results from precise GPS measurements will be analyzed and displayed on the Web.",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.S56",
+  "course_image_thumbnail": {
+    "content": "5f0c91dd-0fff-3185-3f04-666911c689a4",
+    "website": "12-s56-gps-where-are-you-fall-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "4aab9458-9553-42ab-a95b-81203bb75da0",
+  "site_short_id": "12.s56-fall-2008",
+  "site_url_path": "courses/12-s56-gps-where-are-you-fall-2008",
+  "title": "Course Metadata"
+}
